@@ -1,3 +1,8 @@
+Author: Maria Galatescu
+User name: galatesc28
+Date: 2025-11-18
+Version: 1.0
+
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com
